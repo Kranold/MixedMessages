@@ -9,4 +9,7 @@
 
 */ 
 
-console.log("Rolfs first program")
+const firstMsg = ['I am an astronaut', 'I am an alien', "I am Elon Musk"]
+const secondMsg = ['Mars','Venus','Jupiter']
+const thirdMsg = ['work','live']
+
